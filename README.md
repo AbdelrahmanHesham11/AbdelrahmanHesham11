@@ -12,7 +12,7 @@ I’m especially interested in projects that have real-world impact, tools that 
 
 Outside of coding, I’m the kind of person who likes planning and actually following through.
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in Egypt but flexible and open to working globally
 * 🖥️  See my portfolio at [My Portfolio](http:///portfolio-git-main-abdelrahman-heshams-projects.vercel.app/)
 * ✉️  You can contact me at [abdelrahman.heshamfathala@gmail.com](mailto:abdelrahman.heshamfathala@gmail.com)
 * 🚀  I'm currently working on [Finsight!](http://finsight-ai-rho.vercel.app/)
