@@ -15,7 +15,7 @@ Outside of coding, I’m the kind of person who likes planning and actually foll
 * 🌍  I'm based in Egypt but flexible and open to working globally
 * 🖥️  See my portfolio at [My Portfolio](http:///portfolio-git-main-abdelrahman-heshams-projects.vercel.app/)
 * ✉️  You can contact me at [abdelrahman.heshamfathala@gmail.com](mailto:abdelrahman.heshamfathala@gmail.com)
-* 🚀  I'm currently working on [Finsight!](http://finsight-ai-rho.vercel.app/)
+* 🚀  I'm currently working on MyAiFriend
 * 👥  I'm looking to collaborate on Anything that would help people!
 * 💬  I sometimes break code just to find a way to fix it!
 
