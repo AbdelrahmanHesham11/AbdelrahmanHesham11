@@ -1,4 +1,4 @@
-Hi 👋 My name is Abdelrahman Hesham
+Hi! My name is Abdelrahman Hesham.
 ===================================
 
 A full stack software engineer
