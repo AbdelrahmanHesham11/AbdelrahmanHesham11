@@ -13,7 +13,7 @@ I’m especially interested in projects that have real-world impact, tools that 
 Outside of coding, I’m the kind of person who likes planning and actually following through.
 
 * 🌍  I'm based in Egypt but flexible and open to working globally
-* 🖥️  See my portfolio at [My Portfolio](http:///portfolio-git-main-abdelrahman-heshams-projects.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio2026-lovat.vercel.app/)
 * ✉️  You can contact me at [abdelrahman.heshamfathala@gmail.com](mailto:abdelrahman.heshamfathala@gmail.com)
 * 🚀  I'm currently working on MyAiFriend
 * 👥  I'm looking to collaborate on Anything that would help people!
