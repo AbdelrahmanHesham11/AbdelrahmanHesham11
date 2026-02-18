@@ -1,10 +1,10 @@
-Hi! My name is Abdelrahman Hesham.
+Hi! My name is Abdo Hesham.
 ===================================
 
 A full stack software engineer
 ------------------------------
 
-I’m Abdelrahman, a full-stack developer who loves building things that people actually find useful. I enjoy taking an idea, a plan, or even just a small demo and turning it into something real that works. Problem solving keeps me going. If something breaks, I’ll always find a way to fix it or make it better.
+I’m Abdelrahman but everyone calls me Abdo , a full-stack developer who loves building things that people actually find useful. I enjoy taking an idea, a plan, or even just a small demo and turning it into something real that works. Problem solving keeps me going. If something breaks, I’ll always find a way to fix it or make it better.
 
 Right now, I’m focused on improving my full-stack skills step by step, especially with \*\*Next.js, Node.js, Express, and React\*\*. I see myself as a Next.js developer, but I can pick up any framework if it’s needed for the project. I believe in learning by building, so most of my repos are hands-on projects where I experiment, break things, and figure them out along the way.
 
@@ -12,10 +12,10 @@ I’m especially interested in projects that have real-world impact, tools that 
 
 Outside of coding, I’m the kind of person who likes planning and actually following through.
 
-* 🌍  I'm based in Egypt but flexible and open to working globally
+* 🌍  flexible and open to working globally
 * 🖥️  See my portfolio at [My Portfolio](https://portfolio2026-lovat.vercel.app/)
 * ✉️  You can contact me at [abdelrahman.heshamfathala@gmail.com](mailto:abdelrahman.heshamfathala@gmail.com)
-* 🚀  I'm currently working on MyAiFriend
+* 🚀  I'm currently working with a tendering startup!
 * 👥  I'm looking to collaborate on Anything that would help people!
 * 💬  I sometimes break code just to find a way to fix it!
 
