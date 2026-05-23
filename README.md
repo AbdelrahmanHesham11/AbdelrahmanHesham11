@@ -1,4 +1,4 @@
-Hi! My name is Abdo Hesham.
+Hi! My name is Abdo.
 ===================================
 
 A full stack software engineer
