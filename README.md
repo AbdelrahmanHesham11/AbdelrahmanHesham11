@@ -15,7 +15,6 @@ Outside of coding, I’m the kind of person who likes planning and actually foll
 * flexible and open to working globally
 * See my portfolio at [My Portfolio](https://portfolio2026-lovat.vercel.app/)
 * You can contact me at [abdelrahman.heshamfathala@gmail.com](mailto:abdelrahman.heshamfathala@gmail.com)
-* I'm currently working with Pulsar Publishing LLC!
 * Currently working MST time!
 
 <p align="left">
